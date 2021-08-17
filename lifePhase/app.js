@@ -50,6 +50,6 @@ const lifePhase = age => {
 
 // Uncomment the line below when you're ready to try out your function
 console.log(lifePhase(5)) //should print 'child'
-console.log(lifePhase(85)) //should print 'child'
+console.log(lifePhase(85)) //should print 'senior citizen'
 
   // We encourage you to add more function calls of your own to test your code!
