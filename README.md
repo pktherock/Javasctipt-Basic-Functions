@@ -1,2 +1,3 @@
-# Javasctipt-Basic-Functions
+# JavaScript-Basic-Functions
+
 Function of interesting concepts
